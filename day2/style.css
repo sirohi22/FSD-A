@@ -1,0 +1,24 @@
+
+.fitness{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    border-color: antiquewhite;
+    border-style: double;
+    
+    
+}
+.fcontainer{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+}
+.item2
+{
+    order: 3;
+}
